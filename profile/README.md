@@ -24,10 +24,12 @@
 | **정성연** | **정다인** | **김나령** | **임지수** | 
 | :------: |  :------: | :------: | :------: | 
 | [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @yeonnybus](https://github.com/yeonnybus) | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> @Cheorizzang](https://github.com/Cheorizzang) | [<img src="https://avatars.githubusercontent.com/u/121819862?v=4" height=150 width=150> <br/> @NhaRyeong](https://github.com/NhaRyeong) | [<img src="https://avatars.githubusercontent.com/u/76766459?v=4" height=150 width=150> <br/> @jisooooooooooo](https://github.com/jisooooooooooo) | 
+| `팀장, 프론트엔드`  | `기획` | `디자인` | `프론트엔드` |
 
 | **공채연** | **이현지** | **이은재** | 
 | :------: |  :------: | :------: | 
 | [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @chaeyeonKong](https://github.com/chaeyeonKong) | [<img src="https://avatars.githubusercontent.com/u/110108243?v=4" height=150 width=150> <br/> @Amepistheo](https://github.com/Amepistheo) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @lej8924](https://github.com/lej8924) | 
+| `백엔드`  | `백엔드` | `백엔드` |
 
 </div>
 
