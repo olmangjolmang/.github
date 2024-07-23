@@ -17,7 +17,9 @@
 ![JWT](https://img.shields.io/badge/Dependency-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 ![SMTP](https://img.shields.io/badge/Dependency-SMTP-D14836?style=flat&logo=gmail&logoColor=white)
 
-## 💘팀원 구성
+## 💘팀 소개
+
+[잇타](https://www.instagram.com/its_stime_/) 연합동아리 5기 소속 **"올망졸망"** 팀입니다!
 
 <div align="center">
 
@@ -28,19 +30,18 @@
 
 | **공채연** | **이현지** | **이은재** | 
 | :------: |  :------: | :------: | 
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @chaeyeonKong](https://github.com/chaeyeonKong) | [<img src="https://avatars.githubusercontent.com/u/110108243?v=4" height=150 width=150> <br/> @Amepistheo](https://github.com/Amepistheo) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @lej8924](https://github.com/lej8924) | 
+| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @chaeyeonKong](https://github.com/chaeyeonKong) | [<img src="https://avatars.githubusercontent.com/u/110108243?v=4" height=150 width=150> <br/> @Amepistheo](https://github.com/Amepistheo) | [<img src="https://private-user-images.githubusercontent.com/71022086/351187581-b53be9fc-0210-498b-b66a-406f2cb12ec4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE3MTAwNTcsIm5iZiI6MTcyMTcwOTc1NywicGF0aCI6Ii83MTAyMjA4Ni8zNTExODc1ODEtYjUzYmU5ZmMtMDIxMC00OThiLWI2NmEtNDA2ZjJjYjEyZWM0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIzVDA0NDIzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNhNGY1NTAwZWRlYjUyZTkyMzg2ZWI4YzU0MzNlZjkwZGIxM2ZlMWNkOTM1YmI1NTg1MTBiNzIwYzljNzFkYWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jCGMKCX1Qieri8zmWyj1kQIIp-E3la_s620zNFwigdo" height=150 width=150> <br/> @lej8924](https://github.com/lej8924) | 
 | `백엔드`  | `백엔드` | `백엔드` |
 
 </div>
 
 
->  개발자를 꿈꾸는 이들을 위한 아티클 마이닝 서비스 👉 https://rollingpaper.site/
+>  ✅개발자를 꿈꾸는 이들을 위한 아티클 마이닝 서비스 👉 http://3.36.247.28/
 
 
 
-![](https://user-images.githubusercontent.com/38487811/90950455-85d36700-e48c-11ea-9b79-72b5dcb6c6d6.png)
+![](https://github.com/user-attachments/assets/8075b3f0-08c5-40fc-af3f-b66599f9df94)
 
-(↑프로젝트를 대표하는 대표 이미지)
 
 
 ## 📖 Description
@@ -64,18 +65,25 @@
 </p>
 
 ## ⭐ Main Feature
-### 정기 결제 기능
-- 아임포트(Iamport)를 이용한 정기 결제 기능 구현
 
-### 회원가입 및 로그인 
-- JWT 이용
+### 유저 관리
+- Spring Security + JWT 이용 회원가입 및 로그인 구현
+- Redis 이용 Refresh Token 관리(로그아웃 구현)
 
-### 기타 기능
-- 상품 리스트 조회 및 세부 사항 조회
-- 마이페이지
+### 포스트 스크랩
+- 밑줄 긋기 밎 밑줄에 대한 코멘트 작성
+- '티클 창고'에 원하는 포스트 북마크 가능
+
+### 생성형 AI 기반 인사이트 도출
+- 각 포스트의 내용을 기반으로 한 퀴즈 생성
+- 개발자라면 한 번쯤 생각할 법한 질문을 생성하여 인사이트를 도출하게 함
+
+### 구독 서비스
+- 회원가입 시 관심 카테고리와 이메일을 입력받아 주 1회 해당 카테고리의 포스트를 이메일로 전송
+
 
 ## 💻 Getting Started
-(↑해당 프로젝트 설치 및 실행 방법)
+
 
 ### Installation
 ```
@@ -91,14 +99,14 @@ npm run build
 ```
 
 ## 🔧 Stack
-- **Language**: JavaScript
-- **Library & Framework** : Node.js
-- **Database** : AWS RDS (MariaDB)
-- **ORM** : Sequelize
-- **Deploy**: AWS EC2
+- **Language**: TypeScript, Java
+- **Library & Framework** : React.js, Spring Boot
+- **Database** : AWS RDS (MySQL), AWS S3
+- **ORM** : JPA
+- **Deploy**: AWS EC2, Docker, Gihub Action
 
 
-## :open_file_folder: Project Structure
+## 🗂️ Project Structure
 
 ```markdown
 src
@@ -118,29 +126,33 @@ src
 ```
 
 ## 🔨 Server Architecture
-(↑서버 아키텍처에 대한 내용을 그림으로 표현함으로써 인프라를 어떻게 구축했는 지 한 눈에 보여줄 수 있다.)
+
 ![](https://docs.aws.amazon.com/gamelift/latest/developerguide/images/realtime-whatis-architecture-vsd.png)
 
 ## ⚒ CI/CD
 - github actions를 활용해서 지속적 통합 및 배포
-- `feature` 브랜치에서 `dev`로 Pull Request를 보내면, CI가 동작된다.
-- `dev`에서 `master`로 Pull Request를 보내면, CI가 동작되고 Merge가 되면, 운영 리소스에 배포된다.
+- `feature` 브랜치에서 `dev`로 Pull Request를 보내면, CI가 동작되고 Merge가 되면, 운영 리소스에 배포된다.
+- AWS EC2 내에서 docker-compose와 nginx를 통해 프론트와 백을 연결하여 배포한다.
 
 ## 👨‍💻 Role & Contribution
 
-**Frontend (Web)**
 
-- 관리자 페이지 (Vue.js) 개발
+**Project Manager**
+- 서비스 기획 및 중간발표
+
+**Frontend**
+
+- 유저 컴포넌트 구현
+- React.js 이용 API 연결
+
+**Backend**
+
+- API 구현 및 CI/CD 구축
 - 전체 아키텍처 구성
 
-**Devops**
-
-- CI/CD 구축 (Docker, Github Action)
-- 서버 모니터링
-
-**etc**
-
-- 전체 개발 일정 및 이슈 관리
+**Design**
+- Figma 이용 UI/UX 개발
+- 발표자료 제작
 
 ## 😎Review
 
