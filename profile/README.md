@@ -131,8 +131,8 @@ src
 
 ## ⚒ CI/CD
 - github actions를 활용해서 지속적 통합 및 배포
-- `feature` 브랜치에서 `dev`로 Pull Request를 보내면, CI가 동작되고 Merge가 되면, 운영 리소스에 배포된다.
-- AWS EC2 내에서 docker-compose와 nginx를 통해 프론트와 백을 연결하여 배포한다.
+- `dev` 브랜치로 Merge가 되면 CI/CD기 동작하여 Docker hub에 배포된다.
+- AWS EC2 내에서 Docker Compose와 Nginx를 이용해 프론트엔드와 백엔드 요청을 적절하게 분산 처리한다.
 
 ## 👨‍💻 Role & Contribution
 
