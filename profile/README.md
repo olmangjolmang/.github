@@ -19,7 +19,8 @@
 
 ## 💘팀 소개
 
-[잇타](https://www.instagram.com/its_stime_/) 연합동아리 5기 소속 **"올망졸망"** 팀입니다!
+[잇타](https://www.instagram.com/its_stime_/) 연합동아리 5기 소속 **"올망졸망"** 팀입니다!<br>
+<i>티클 모아 태산</i> 이라는 말처럼 올망졸망 모여 개개인의 빛이 발하기에 **“올망졸망”** 이라고 지었습니다!
 
 <div align="center">
 
@@ -30,7 +31,7 @@
 
 | **공채연** | **이현지** | **이은재** | 
 | :------: |  :------: | :------: | 
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @chaeyeonKong](https://github.com/chaeyeonKong) | [<img src="https://avatars.githubusercontent.com/u/110108243?v=4" height=150 width=150> <br/> @Amepistheo](https://github.com/Amepistheo) | [<img src="https://private-user-images.githubusercontent.com/71022086/351187581-b53be9fc-0210-498b-b66a-406f2cb12ec4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE3NDY4NTUsIm5iZiI6MTcyMTc0NjU1NSwicGF0aCI6Ii83MTAyMjA4Ni8zNTExODc1ODEtYjUzYmU5ZmMtMDIxMC00OThiLWI2NmEtNDA2ZjJjYjEyZWM0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzIzVDE0NTU1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE0MjcxZTQxMTNkOTY5MmZjMGE3NTNjZTE0OGVjY2Q2NGYzMjI2MDI4ODhlN2E0NjcwNzliM2Y2MjdlOTExYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.yxTtpUpAKYgcmSyqMkT83NYpxJVZ5Fz0hAqgJs0t354" height=150 width=150> <br/> @lej8924](https://github.com/lej8924) | 
+| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @chaeyeonKong](https://github.com/chaeyeonKong) | [<img src="https://avatars.githubusercontent.com/u/110108243?v=4" height=150 width=150> <br/> @Amepistheo](https://github.com/Amepistheo) | [<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130307_24%2Fcocowablog_13626569090078ScMB_PNG%2F%25B6%25D7%25C0%25CC.png&type=sc960_832" height=150 width=150> <br/> @lej8924](https://github.com/lej8924) | 
 | `백엔드`  | `백엔드` | `백엔드` |
 
 </div>
@@ -52,51 +53,34 @@
 
 다양한 종류의 편지지와 스티커로 화면을 꾸미고, 소중한 사람에게 뜻깊은 경험을 선물하세요!
 
-(↑프로젝트에 대한 자세한 설명)
 
-## :baby_chick: Demo
-(↑해당 프로젝트가 실제 배포되고 있지 않아서, 이미지로 프로젝트의 뷰를 대체할 경우)
-<p float="left">
-    <img src="https://lh3.googleusercontent.com/iYHEwh2_Q6nIKS67eItV4AwIokeJDNe0ojtpWGqKpRyhaRlmCSmBcnkFNCmXbTkajKA=w2560-h1330-rw" width=200 />
-    <img src="https://lh3.googleusercontent.com/xl0sqT6Jz1p9Gq9slw4VXRr-akf4v74b_k3QkZUMZPvYV37-e5LqTZcOjofof4Xyl48=w2560-h1330-rw" width=200 />
-    <img src="https://lh3.googleusercontent.com/JqUUXWSgU0bhSBpOObERLvfUGE3eBnInmYvDMY3S2aAatyeFKLOifWnBLgZ0KLGbmA=w2560-h1330-rw" width=200 />
-    <img src="https://lh3.googleusercontent.com/AdN5fkguQMSc4M6iVkAFONsuxZhOQaKE7TDzuhF56FgDLORAnBv8160W7vva4a6kFBg=w2560-h1330-rw" width=200 />
-    <img src="https://lh3.googleusercontent.com/ruDvvtKehqGB_4PX7QBsUY2RLDe_v6g5FL-_XmC6SUGjKUQqa08Uy-DtsNi8wYuuXU4=w2560-h1330-rw" width=200 />
-</p>
+## UI/UX
+![image](https://github.com/user-attachments/assets/73532df2-3d80-4db7-af4b-894fdc4a2be6)
+<br>
+
+![image](https://github.com/user-attachments/assets/dab191e4-2d9e-4e3a-990f-daf7634801e0)
+
+
+
+
 
 ## ⭐ Main Feature
 
-### 유저 관리
+### 😃유저 관리
 - Spring Security + JWT 이용 회원가입 및 로그인 구현
 - Redis 이용 Refresh Token 관리(로그아웃 구현)
 
-### 포스트 스크랩
+### ✏️포스트 스크랩
 - 밑줄 긋기 밎 밑줄에 대한 코멘트 작성
 - '티클 창고'에 원하는 포스트 북마크 가능
 
-### 생성형 AI 기반 인사이트 도출
+### 🧠생성형 AI 기반 인사이트 도출
 - 각 포스트의 내용을 기반으로 한 퀴즈 생성
 - 개발자라면 한 번쯤 생각할 법한 질문을 생성하여 인사이트를 도출하게 함
 
-### 구독 서비스
+### 📖구독 서비스
 - 회원가입 시 관심 카테고리와 이메일을 입력받아 주 1회 해당 카테고리의 포스트를 이메일로 전송
 
-
-## 💻 Getting Started
-
-
-### Installation
-```
-npm install
-```
-### Develop Mode
-```
-npm run dev
-```
-### Production
-```
-npm run build
-```
 
 ## 🔧 Stack
 - **Language**: TypeScript, Java
@@ -106,28 +90,10 @@ npm run build
 - **Deploy**: AWS EC2, Docker, Gihub Action
 
 
-## 🗂️ Project Structure
-
-```markdown
-src
-├── common
-│   ├── config
-│   ├── types
-│   └── utils
-│       ├── types
-│       └── utils
-├── controller
-├── entity
-├── infrastructure
-│   ├── express
-│   └── typeorm
-├── repository
-└── ser
-```
 
 ## 🔨 Server Architecture
 
-![](https://docs.aws.amazon.com/gamelift/latest/developerguide/images/realtime-whatis-architecture-vsd.png)
+![image](https://github.com/user-attachments/assets/da8db32e-f491-44a9-b59b-0f115d5a100a)
 
 ## ⚒ CI/CD
 - github actions를 활용해서 지속적 통합 및 배포
@@ -153,10 +119,3 @@ src
 **Design**
 - Figma 이용 UI/UX 개발
 - 발표자료 제작
-
-## 😎Review
-
-### 기획 
-### 디자인
-### 프론트엔드
-### 백엔드
