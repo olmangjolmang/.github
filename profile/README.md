@@ -16,6 +16,9 @@
 ![Spring Security](https://img.shields.io/badge/Dependency-Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
 ![JWT](https://img.shields.io/badge/Dependency-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 ![SMTP](https://img.shields.io/badge/Dependency-SMTP-D14836?style=flat&logo=gmail&logoColor=white)
+![React](https://img.shields.io/badge/react-18.3.1-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+
 
 ## 💘팀 소개
 
@@ -26,7 +29,7 @@
 
 | **정성연** | **정다인** | **김나령** | **임지수** | 
 | :------: |  :------: | :------: | :------: | 
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @yeonnybus](https://github.com/yeonnybus) | [<img src="https://private-user-images.githubusercontent.com/71022086/352157662-860ac980-fad4-4faf-ab92-2ae5eb2d607c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5MTg3MjYsIm5iZiI6MTcyMTkxODQyNiwicGF0aCI6Ii83MTAyMjA4Ni8zNTIxNTc2NjItODYwYWM5ODAtZmFkNC00ZmFmLWFiOTItMmFlNWViMmQ2MDdjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI1VDE0NDAyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1ZDE2YjVhMTQ5MTE1NDFjMGEzZmVjYWIzOGJjMDdiY2IxNmM1MDZmMjQ1OTZiNzFlOWQ5NDRlMDM2ZDE0ODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.SgTxsbVM7cdeJqkbXYyc1eCaxmVEQYzqB2ePYcgRzgo" height=150 width=150> <br/> @reveusellie](https://blog.naver.com/reveusellie) | [<img src="https://avatars.githubusercontent.com/u/121819862?v=4" height=150 width=150> <br/> @NhaRyeong](https://github.com/NhaRyeong) | [<img src="https://github.com/user-attachments/assets/054f5b74-313b-453e-b1f2-ed0a4e95013e" height=150 width=150> <br/> @jisooooooooooo](https://github.com/jisooooooooooo) | 
+| [<img src="https://github.com/user-attachments/assets/9912ad8f-9a6c-4c49-a3f1-84585919a659" height=150 width=150> <br/> @yeonnybus](https://github.com/yeonnybus) | [<img src="https://private-user-images.githubusercontent.com/71022086/352157662-860ac980-fad4-4faf-ab92-2ae5eb2d607c.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5MTg3MjYsIm5iZiI6MTcyMTkxODQyNiwicGF0aCI6Ii83MTAyMjA4Ni8zNTIxNTc2NjItODYwYWM5ODAtZmFkNC00ZmFmLWFiOTItMmFlNWViMmQ2MDdjLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzI1VDE0NDAyNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ1ZDE2YjVhMTQ5MTE1NDFjMGEzZmVjYWIzOGJjMDdiY2IxNmM1MDZmMjQ1OTZiNzFlOWQ5NDRlMDM2ZDE0ODEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.SgTxsbVM7cdeJqkbXYyc1eCaxmVEQYzqB2ePYcgRzgo" height=150 width=150> <br/> @reveusellie](https://blog.naver.com/reveusellie) | [<img src="https://avatars.githubusercontent.com/u/121819862?v=4" height=150 width=150> <br/> @NhaRyeong](https://github.com/NhaRyeong) | [<img src="https://github.com/user-attachments/assets/054f5b74-313b-453e-b1f2-ed0a4e95013e" height=150 width=150> <br/> @jisooooooooooo](https://github.com/jisooooooooooo) | 
 | `팀장, 프론트엔드`  | `기획` | `디자인` | `프론트엔드` |
 
 | **공채연** | **이현지** | **이은재** | 
