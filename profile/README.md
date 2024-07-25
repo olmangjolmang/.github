@@ -31,7 +31,7 @@
 
 | **공채연** | **이현지** | **이은재** | 
 | :------: |  :------: | :------: | 
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @chaeyeonKong](https://github.com/chaeyeonKong) | [<img src="https://avatars.githubusercontent.com/u/110108243?v=4" height=150 width=150> <br/> @Amepistheo](https://github.com/Amepistheo) | [<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130307_24%2Fcocowablog_13626569090078ScMB_PNG%2F%25B6%25D7%25C0%25CC.png&type=sc960_832" height=150 width=150> <br/> @lej8924](https://github.com/lej8924) | 
+| [<img src="https://github.com/user-attachments/assets/357cac69-b5d4-4ebb-98e8-a6780c3aee03" height=150 width=150> <br/> @chaeyeonKong](https://github.com/chaeyeonKong) | [<img src="https://avatars.githubusercontent.com/u/110108243?v=4" height=150 width=150> <br/> @Amepistheo](https://github.com/Amepistheo) | [<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2F20130307_24%2Fcocowablog_13626569090078ScMB_PNG%2F%25B6%25D7%25C0%25CC.png&type=sc960_832" height=150 width=150> <br/> @lej8924](https://github.com/lej8924) | 
 | `백엔드`  | `백엔드` | `백엔드` |
 
 </div>
