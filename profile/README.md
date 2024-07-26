@@ -16,14 +16,23 @@
 ![Spring Security](https://img.shields.io/badge/Dependency-Spring_Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
 ![JWT](https://img.shields.io/badge/Dependency-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 ![SMTP](https://img.shields.io/badge/Dependency-SMTP-D14836?style=flat&logo=gmail&logoColor=white)
-![React](https://img.shields.io/badge/react-18.3.1-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-18.3.1-61DAFB?style=flat&logo=react&logoColor=%2361DAFB)
+![ReactQuery](https://img.shields.io/badge/reactQuery-5.51.11-FF4154?style=flat&logo=react%20query)
+![Axios](https://img.shields.io/badge/Axios-1.7.2-5A29E4?style=flat&logo=axios&logoColor=5A29E4)
+![react-router-dom](https://img.shields.io/badge/ReactRouter-6.23.1-CA4245?style=flat&logo=React%20Router)
+![styled-component](https://img.shields.io/badge/Styled_Component-6.1.11-DB7093?style=flat&logo=styled-components)
+![Javascript](https://img.shields.io/badge/Javascript-ES6+-F7DF1E?style=flat&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/Typescript-4.9.5-3178C6?style=flat&logo=TypeScript)
+![Jest](https://img.shields.io/badge/Jest-29.7.0-323330?style=flat&logo=Jest)
+
 
 
 
 ## 💘팀 소개
 
-[잇타](https://www.instagram.com/its_stime_/) 연합동아리 5기 소속 **"올망졸망"** 팀입니다!<br>
-<i>티클 모아 태산</i> 이라는 말처럼 올망졸망 모여 개개인의 빛이 발하기에 **“올망졸망”** 이라고 지었습니다!
+대학생 연합 IT 동아리 [잇타](https://www.instagram.com/its_stime_/) 5기 소속 **"올망졸망"** 팀입니다!<br>
+<i>티클 모아 태산</i> <i>티클 모아 태산</i>  이라는 말 처럼 작고 소중한 팀원들이 올망졸망 모여 하나의 태산같은 빛을 발하기에 **“올망졸망”** 이라는 팀 명을 갖게 되었습니다.
+
 
 <div align="center">
 
@@ -90,7 +99,7 @@
 
 
 ## 🔧 Stack
-- **Language**: TypeScript, Java
+- **Language**: Javascript, TypeScript, Java
 - **Library & Framework** : React.js, Spring Boot
 - **Database** : AWS RDS (MySQL), AWS S3
 - **ORM** : JPA
@@ -104,19 +113,31 @@
 
 ## ⚒ CI/CD
 - github actions를 활용해서 지속적 통합 및 배포
-- `dev` 브랜치로 Merge가 되면 CI/CD기 동작하여 Docker hub에 배포된다.
+- Backend : `dev` 브랜치로 Merge가 되면 CI/CD가 동작하여 Docker hub에 배포된다.
+- Frontend : `main` 브랜치로 Merge가 되면 CI/CD가 동작하여 Docker hub에 배포된다.
 - AWS EC2 내에서 Docker Compose와 Nginx를 이용해 프론트엔드와 백엔드 요청을 적절하게 분산 처리한다.
 
 ## 👨‍💻 Role & Contribution
 
 
 **Project Manager**
-- 서비스 기획 및 중간발표
+- 커밋 컨벤션 및 브랜치 전략 설정
+- 레포지토리 관리
+- Jira 활용 일정 및 진행상황 관리
+
+**Product Manager**
+- 서비스 기획
+- 중간 발표
+- 마케팅 기획
+- 와이어프레임 작성
+- 설계 및 flow 기획
 
 **Frontend**
 
-- 유저 컴포넌트 구현
-- React.js 이용 API 연결
+- UX를 고려한 페이지 설계
+- atom-molecule 디자인 패턴
+- Tanstack Query를 활용한 캐싱, 낙관적 업데이트를 통해 UX 개선
+- Axios 이용 API 호출 구조 설게 및 연결
 
 **Backend**
 
